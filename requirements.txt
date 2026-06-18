@@ -1,0 +1,14 @@
+gradio
+pandas
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
+faiss-cpu
+sentence-transformers
+pypdf
+docx2txt
+openpyxl
